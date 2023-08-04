@@ -1,2 +1,2 @@
 cloud:
-  message: Message from application.yml
+  message: Message from application.yml after actuator
