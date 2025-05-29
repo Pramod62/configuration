@@ -1,2 +1,2 @@
 cloud:
-  message: Message from application.yml after actuator update
+  message: Message from config file
