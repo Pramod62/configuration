@@ -1,4 +1,4 @@
 cloud:
   message: Message from application.yml after actuator update
-encrypt:
+enc:
   message: "{cipher}75b35ec0c2894961ead66af1bff285cc902bc48f4e9b6a4e96dac4ce8e948e9b"
