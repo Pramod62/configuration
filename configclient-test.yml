@@ -1,4 +1,2 @@
-cloud:
-  message: Message from test property file
 enc:
   message: '{cipher}1cf3c4a90c083210a7b7192ea46a96dbea318d3d09c1e447cfe19d8bb954d14299c19645a20f859c465102a8359fa7fe'
