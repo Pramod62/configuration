@@ -4,4 +4,4 @@ secure:
   purl:
     apigee:
       userName: brimacct
-      password: BrimApp2025!@#$
+      password: '{cipher}3344d891d5fd39fe1ac98249526498969e3c48aa923ca3a187175e590688f691'
